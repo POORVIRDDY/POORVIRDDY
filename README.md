@@ -1,5 +1,5 @@
 # PoorviReddy
-<img src="images/WhatsApp Image 2025-08-13 at 06.32.08_822c2eea.jpg" alt="Descriptive Alt Text" width="400" />
+![Alt text](relative-or-absolute-path-to-image)
 # Hi 👋, I'm Poorvi Reddy
 ### 💻 Aspiring MS in CS @ University of Cincinnati | AI, Data & Full-Stack Enthusiast
 🌱 Currently preparing for my Master's in Computer Science, building skills in **AI, Computer Vision, Data Engineering, and Web Development**.
