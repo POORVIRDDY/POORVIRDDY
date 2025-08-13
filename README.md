@@ -14,8 +14,8 @@
 </p>
 ---
 
-## 📄 
--[View My Resume](https://www.canva.com/design/DAGv6J1oRSg/tYzeeoRCnBfSZ7H6nDenZg/edit?utm_content=DAGv6J1oRSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+##  
+📄[View My Resume](https://www.canva.com/design/DAGv6J1oRSg/tYzeeoRCnBfSZ7H6nDenZg/edit?utm_content=DAGv6J1oRSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
