@@ -13,10 +13,17 @@
   💬 Ask me about <strong>Python, SQL, Machine Learning, ASP.NET, OpenCV, Django, Node.js</strong>
 </p>
 ---
-📫 How to reach me:
-- ✉ **poorvireddymaramganti@gmail.com**
+
+## 📄 
+-[View My Resume](https://www.canva.com/design/DAGv6J1oRSg/tYzeeoRCnBfSZ7H6nDenZg/edit?utm_content=DAGv6J1oRSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
+## 📫 How to Reach Me
+
+- ✉️ **poorvireddymaramganti@gmail.com**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/poorvi-reddy-b6b092296)
--  [View My Resume](https://www.canva.com/design/DAGv6J1oRSg/tYzeeoRCnBfSZ7H6nDenZg/edit?utm_content=DAGv6J1oRSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  
 ---
 ## 🛠 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -30,7 +37,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=python&logoColor=black)
+
 ---
+
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=POORVIRDDY&layout=compact&theme=radical)
 <!--
