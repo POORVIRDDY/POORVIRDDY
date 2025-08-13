@@ -2,14 +2,17 @@
 ![Alt text](image.jpg)
 ### 💻 Aspiring MS in CS @ University of Cincinnati | AI, Data & Full-Stack Enthusiast
 🌱 Currently preparing for my Master's in Computer Science, building skills in **AI, Data Engineering, and Web Development**.
-<p align="right">
-  <img src="download.gif" width="150" alt="GIF" />
+<p>
+  <img src="download.gif" width="150" alt="GIF description" align="right" style="margin-left: 15px; margin-bottom: 10px;" />
+  🚀 Some of my highlighted projects:
+  <ul>
+    <li><strong><a href="https://github.com/POORVIRDDY/RoadSense-Ai.git">RoadSense-Ai</a></strong> 🚦 – AI-based traffic violation detection using YOLOv8, OpenCV, Django & Node.js.</li>
+    <li><strong><a href="https://github.com/POORVIRDDY/EduNavigator.git">Edu Navigator</a></strong> 🎓 – NLP-powered admission enquiry chatbot.</li>
+    <li><strong>Task Management System</strong> 🗂 – Role-based web app in ASP.NET MVC.</li>
+  </ul>
+  💬 Ask me about <strong>Python, SQL, Machine Learning, ASP.NET, OpenCV, Django, Node.js</strong>
 </p>
-🚀 Some of my highlighted projects:
-- **[RoadSense-Ai](https://github.com/POORVIRDDY/RoadSense-Ai.git)** 🚦 – AI-based traffic violation detection using YOLOv8, OpenCV, Django & Node.js.
-- **[Edu Navigator](https://github.com/POORVIRDDY/EduNavigator.git)** 🎓 – NLP-powered admission enquiry chatbot.
-- **Task Management System** 🗂 – Role-based web app in ASP.NET MVC.
-💬 Ask me about **Python, SQL, Machine Learning, ASP.NET, OpenCV, Django, Node.js**
+
 ---
 - [View My Resume](https://www.canva.com/design/DAGv6J1oRSg/tYzeeoRCnBfSZ7H6nDenZg/edit?utm_content=DAGv6J1oRSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ![GIF description](download.gif)
