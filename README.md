@@ -8,7 +8,8 @@
 - **[Edu Navigator](https://github.com/POORVIRDDY/EduNavigator.git)** 🎓 – NLP-powered admission enquiry chatbot.
 - **Task Management System** 🗂 – Role-based web app in ASP.NET MVC.
 💬 Ask me about **Python, SQL, Machine Learning, ASP.NET, OpenCV, Django, Node.js**
-[View My Resume]([https://www.canva.com/your-resume-link](https://www.canva.com/design/DAGv6J1oRSg/tYzeeoRCnBfSZ7H6nDenZg/edit?utm_content=DAGv6J1oRSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+---
+[View My Resume](https://www.canva.com/your-resume-link](https://www.canva.com/design/DAGv6J1oRSg/tYzeeoRCnBfSZ7H6nDenZg/edit?utm_content=DAGv6J1oRSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 📫 How to reach me:
 - ✉ **poorvireddymaramganti@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/poorvi-reddy-b6b092296)
