@@ -31,10 +31,6 @@
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=POORVIRDDY&layout=compact&theme=radical)
 ---
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Attach files by dragging & dropping, selecting or pasting them.[](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-Editing PoorviReddy/README.md at main · POORVIRDDY/PoorviReddy## Hi there 👋
-
 <!--
 **POORVIRDDY/POORVIRDDY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
