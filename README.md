@@ -12,14 +12,11 @@
   </ul>
   💬 Ask me about <strong>Python, SQL, Machine Learning, ASP.NET, OpenCV, Django, Node.js</strong>
 </p>
-
----
-- [View My Resume](https://www.canva.com/design/DAGv6J1oRSg/tYzeeoRCnBfSZ7H6nDenZg/edit?utm_content=DAGv6J1oRSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-![GIF description](download.gif)
 ---
 📫 How to reach me:
 - ✉ **poorvireddymaramganti@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/poorvi-reddy-b6b092296)
+-  [View My Resume](https://www.canva.com/design/DAGv6J1oRSg/tYzeeoRCnBfSZ7H6nDenZg/edit?utm_content=DAGv6J1oRSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 ## 🛠 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
