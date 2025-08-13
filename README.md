@@ -1,6 +1,6 @@
-# PoorviReddy
-![Alt text](image.jpg)
 # Hi 👋, I'm Poorvi Reddy
+![Alt text](image.jpg)
+
 ### 💻 Aspiring MS in CS @ University of Cincinnati | AI, Data & Full-Stack Enthusiast
 🌱 Currently preparing for my Master's in Computer Science, building skills in **AI, Computer Vision, Data Engineering, and Web Development**.
 🚀 Some of my highlighted projects:
@@ -30,7 +30,6 @@
 ---
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=POORVIRDDY&layout=compact&theme=radical)
----
 <!--
 **POORVIRDDY/POORVIRDDY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
