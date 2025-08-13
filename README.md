@@ -2,7 +2,7 @@
 ![Alt text](image.jpg)
 
 ### 💻 Aspiring MS in CS @ University of Cincinnati | AI, Data & Full-Stack Enthusiast
-🌱 Currently preparing for my Master's in Computer Science, building skills in **AI, Computer Vision, Data Engineering, and Web Development**.
+🌱 Currently preparing for my Master's in Computer Science, building skills in **AI, Data Engineering, and Web Development**.
 🚀 Some of my highlighted projects:
 - **[RoadSense-Ai](https://github.com/POORVIRDDY/RoadSense-Ai.git)** 🚦 – AI-based traffic violation detection using YOLOv8, OpenCV, Django & Node.js.
 - **[Edu Navigator](https://github.com/POORVIRDDY/EduNavigator.git)** 🎓 – NLP-powered admission enquiry chatbot.
