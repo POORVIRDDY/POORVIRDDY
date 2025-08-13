@@ -1,6 +1,5 @@
 # Hi 👋, I'm Poorvi Reddy
 ![Alt text](image.jpg)
-
 ### 💻 Aspiring MS in CS @ University of Cincinnati | AI, Data & Full-Stack Enthusiast
 🌱 Currently preparing for my Master's in Computer Science, building skills in **AI, Data Engineering, and Web Development**.
 🚀 Some of my highlighted projects:
