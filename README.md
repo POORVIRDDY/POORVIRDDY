@@ -1,19 +1,23 @@
 # Hi 👋, I'm Poorvi Reddy
 ![Alt text](image.jpg)
-### 💻 Aspiring MS in CS @ University of Cincinnati | AI, Data & Full-Stack Enthusiast
-🌱 Currently preparing for my Master's in Computer Science, building skills in **AI, Data Engineering,
-and Web Development**.
+
+### 💻 Aspiring MS in CS @ University of Cincinnati | AI, Data & Full‑Stack Ninja
+
+🌱 Currently on an exciting journey toward my Master's in **Computer Science**, leveling up everyday in **AI, Data Engineering, and Full‑Stack Development** to build next‑gen, scalable solutions.  
+
 <p>
   <img src="download.gif" width="150" alt="GIF description" align="right" style="margin-left: 15px; margin-bottom: 10px;" />
-  🚀 Some of my highlighted projects:
+  
+  🚀 **Featured Tech Projects** — My playground for innovation:  
   <ul>
-    <li><strong><a href="https://github.com/POORVIRDDY/RoadSense-Ai.git">RoadSense-Ai</a></strong> 🚦 – AI-based traffic violation detection using 
-      YOLOv8, OpenCV, Django & Node.js.</li>
-    <li><strong><a href="https://github.com/POORVIRDDY/EduNavigator.git">Edu Navigator</a></strong> 🎓 – NLP-powered admission enquiry chatbot.</li>
-    <li><strong>Task Management System</strong> 🗂 – Role-based web app in ASP.NET MVC.</li>
+    <li><strong><a href="https://github.com/POORVIRDDY/RoadSense-Ai.git">RoadSense‑AI</a></strong> 🚦 – Smart traffic violation detection powered by <em>YOLOv8</em>, <em>OpenCV</em>, and a full‑stack combo of Django + Node.js.</li>
+    <li><strong><a href="https://github.com/POORVIRDDY/EduNavigator.git">Edu Navigator</a></strong> 🎓 – NLP‑powered admission assistant chatbot making enquiry processes smoother than ever.</li>
+    <li><strong>Task Management System</strong> 🗂 – Role‑based productivity app built with ASP.NET MVC for smarter workflow management.</li>
   </ul>
-  💬 Ask me about <strong>Python, SQL, Machine Learning, ASP.NET, OpenCV, Django, Node.js</strong>
+  
+  💬 Always open to geeking out about <strong>Python, SQL, Machine Learning, Computer Vision, ASP.NET, Django, Node.js</strong> — or collaborating on futuristic ideas.  
 </p>
+
 
 ##  
 📄[View My Resume](https://www.canva.com/design/DAGv6J1oRSg/tYzeeoRCnBfSZ7H6nDenZg/edit?utm_content=DAGv6J1oRSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
