@@ -1,5 +1,5 @@
 # PoorviReddy
-![Banner](https://your-banner-image-link.com)
+![Banner](WhatsApp Image 2025-08-13 at 06.32.08_822c2eea.jpg)
 # Hi 👋, I'm Poorvi Reddy
 ### 💻 Aspiring MS in CS @ University of Cincinnati | AI, Data & Full-Stack Enthusiast
 🌱 Currently preparing for my Master's in Computer Science, building skills in **AI, Computer Vision, Data Engineering, and Web Development**.
