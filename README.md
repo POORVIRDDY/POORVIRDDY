@@ -9,7 +9,7 @@
 - **Task Management System** 🗂 – Role-based web app in ASP.NET MVC.
 💬 Ask me about **Python, SQL, Machine Learning, ASP.NET, OpenCV, Django, Node.js**
 ---
-- View My Resume(https://www.canva.com/design/DAGv6J1oRSg/tYzeeoRCnBfSZ7H6nDenZg/edit?utm_content=DAGv6J1oRSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [View My Resume](https://www.canva.com/design/DAGv6J1oRSg/tYzeeoRCnBfSZ7H6nDenZg/edit?utm_content=DAGv6J1oRSg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ---
 📫 How to reach me:
 - ✉ **poorvireddymaramganti@gmail.com**
